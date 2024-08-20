@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/mohit-ghanghas" target="_blank">
+  <a href="www.linkedin.com/in/mohit-ghanghas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/mohitghanghas981" target="_blank">
@@ -53,9 +53,6 @@
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://leetcode.com/u/MOHITGHANGHAS1/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYashSharma0406&logo=leetcode&logoColor=yellow" height="35" alt="twitter logo"  />
   </a>
 </div>
 
